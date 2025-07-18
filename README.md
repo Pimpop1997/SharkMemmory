@@ -1,2 +1,0 @@
-# SharkMemmory
-By SharkGPT
